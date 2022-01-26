@@ -28,3 +28,5 @@ console.log(vehiculos)
 fs.writeFileSync('data.json',JSON.stringify(vehiculos))
 
 //Hacerle edicion de un elemento de data
+
+console.log('PRUEBA')
